@@ -1,0 +1,15 @@
+{
+  "variant": "baseline",
+  "data_root": "data/raw/PennFudanPed",
+  "split_file": "data/split_seed42.json",
+  "output": null,
+  "epochs": 20,
+  "batch_size": 4,
+  "image_size": 128,
+  "base_channels": 12,
+  "lr": 0.002,
+  "weight_decay": 0.0001,
+  "patience": 6,
+  "seed": 42,
+  "workers": 0
+}

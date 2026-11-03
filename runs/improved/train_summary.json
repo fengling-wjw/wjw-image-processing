@@ -1,0 +1,8 @@
+{
+  "variant": "improved",
+  "device": "cpu",
+  "parameters": 292453,
+  "best_val_iou": 0.7043575140146109,
+  "epochs_ran": 20,
+  "training_seconds": 275.0389811992645
+}

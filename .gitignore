@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+data/raw/
+data/downloads/
+runs/*/checkpoints/*.pt
+!runs/.gitkeep
+runs/smoke_*/
+runs/timing_*/
+

@@ -1,0 +1,2 @@
+"""wjw-image-processing package."""
+

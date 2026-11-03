@@ -1,0 +1,8 @@
+{
+  "variant": "baseline",
+  "device": "cpu",
+  "parameters": 274849,
+  "best_val_iou": 0.6488543198658869,
+  "epochs_ran": 20,
+  "training_seconds": 169.93901777267456
+}
